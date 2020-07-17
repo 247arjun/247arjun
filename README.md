@@ -12,7 +12,7 @@ I'm a software engineer at Microsoft, working on keeping Windows customers prote
 
 ## Find me around the web 🌐
 - Tweeting my thoughts and tech things on [Twitter](https://twitter.com/247arjun) 🐦
-- Sharing updates on [LinkedIn](www.linkedin.com/in/247arjun) 👔
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/247arjun) 👔
 
 <!--
 **247arjun/247arjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
