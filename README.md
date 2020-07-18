@@ -1,6 +1,6 @@
 # Hi, I'm Arjun 👋
 
-<img src="https://github.com/247arjun/247arjun/blob/master/github-banner-image-cropped.jpg" alt="banner that says Arjun - Software Engineer, InfoSec Geek.">
+<img src="https://github.com/247arjun/247arjun/blob/master/github-banner-new.png" alt="banner that says Arjun - Software Engineer, InfoSec Geek.">
 
 I'm a software engineer at Microsoft, working on keeping Windows customers protected and productive. I'm deeply passionate about security, and love to read and share - learn and teach - things related to security.
 
