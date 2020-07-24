@@ -6,7 +6,7 @@ I'm a software engineer at Microsoft, working on keeping Windows customers prote
 
 - 🔭 I’m currently working on keeping Windows customers safe when they use Windows applications.
 - 🌱 I’m learning a lot about information security - AppSec, pen-testing (working towards the [eJTP certification](https://www.elearnsecurity.com/certification/ejpt/)).
-- 📚 A short story I wrote won the 2nd place in the DEFCON Short Story contest.
+- 📚 A short story I wrote won the 2nd place in the 2020 DEFCON Short Story contest.
   - You can find the story on [Apple Books](https://books.apple.com/us/book/plug-and-play/id1521590505) and on [GitHub](https://gist.github.com/504f8100bcd01bf2b998c674a390f6f0).
 - 📱 I published an app - [AntiSocial](https://apps.apple.com/us/app/anti-social/id1516200820) - to the App Store that allows you to block tracking from popular social networks.
 
