@@ -12,7 +12,7 @@ I'm a software engineer at Microsoft, working on keeping Windows customers prote
 - 📱 I published an app - [AntiSocial](https://apps.apple.com/us/app/anti-social/id1516200820) - to the App Store that allows you to block tracking from popular social networks. The app is also [open source on GitHub](https://github.com/247arjun/AntiSocialApp).
 
 ## Find me around the web 🌐
-- Tweeting about technology on [Twitter](https://twitter.com/247arjun) 🐦
+- Tweeting about technology and cybersecurity on Mastodon - @247arjun@infosec.exchange 🐘
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/247arjun) 👔
 
 <!--
