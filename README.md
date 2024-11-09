@@ -13,9 +13,6 @@ I'm a Security Engineering Manager at Microsoft, working on keeping Microsoft Cl
   - You can find the story on [Apple Books](https://books.apple.com/us/book/plug-and-play/id1521590505) and on [GitHub](https://gist.github.com/504f8100bcd01bf2b998c674a390f6f0).
 - 📱 I published an app - [AntiSocial](https://apps.apple.com/us/app/anti-social/id1516200820) - to the App Store that allows you to block tracking from popular social networks. The app is also [open source on GitHub](https://github.com/247arjun/AntiSocialApp).
 
-## Find me around the web 🌐
-- Tweeting about technology and cybersecurity on Mastodon - @247arjun@infosec.exchange 🐘
-- Sharing updates on [LinkedIn](https://www.linkedin.com/in/247arjun) 👔
 
 <!--
 **247arjun/247arjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
