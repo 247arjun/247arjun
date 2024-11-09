@@ -4,7 +4,7 @@ I'm a Security Engineering Manager at Microsoft, working on keeping Microsoft Cl
 
 - 🖥️ I currently work in the Azure Security organization at Microsoft, leading a team of Security Engineers protecting the Microsoft Cloud.
 - 🎙️ I have been a guest on Microsoft's [BlueHat Podcast](https://podcasts.apple.com/us/podcast/the-bluehat-podcast/id1688087915?i=1000674973320), sharing my journey from Software Engineer to Security Engineer.
-- 👨‍🏫 I co-delivered a workshop on SAST using Semgrep, at DEF CON 32.
+- 👨‍🏫 I co-delivered a workshop on [SAST using Semgrep](https://defcon.org/html/defcon-32/dc-32-workshops.html#54210), at DEF CON 32.
 - 🎤 I have presented at the [National Cybersecurity Alliance Convene in Seattle](https://staysafeonline.org/programs/events/convene-seattle-2024/), educating cybersecurity awareness professionals about AppSec.
 - 🤖 I have written a paper on [using GenAI to help prioritize triage of SAST results](https://github.com/247arjun/ai-secure-code-review/blob/main/Automated%20Secure%20Code%20Review%20at%20Scale%20Using%20Static%20Analysis%20and%20Generative%20AI.md)
 - ✍️ I have authored an article in the ISACA Journal on [A New Way to Upskill the Workforce](https://www.isaca.org/resources/isaca-journal/issues/2023/volume-6/learning-while-earning-a-new-way-to-upskill-the-workforce)
