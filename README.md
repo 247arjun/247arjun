@@ -4,7 +4,7 @@ I'm a Security Engineering Manager at Microsoft, working to keep Microsoft Cloud
 
 - 🌩️ I currently work in the Azure Security organization at Microsoft, leading a team of Security Engineers protecting the Microsoft Cloud.
 
-- 👨‍💻 I have developed and published open-source MCP Servers for [`curl`](https://www.npmjs.com/package/@247arjun/mcp-curl), [`grep`](https://www.npmjs.com/package/@247arjun/mcp-grep) and [`jq`](https://www.npmjs.com/package/@247arjun/mcp-jq), allowing conversational invocation of these utilities.
+## Profile
 
 - 🎙️ I have been a guest on **Microsoft's BlueHat Podcast**, sharing [my journey from Software Engineer to Security Engineer](https://podcasts.apple.com/us/podcast/the-bluehat-podcast/id1688087915?i=1000674973320).
 
@@ -19,7 +19,12 @@ I'm a Security Engineering Manager at Microsoft, working to keep Microsoft Cloud
 - 📚 A short story I wrote won the 2nd place in the 2020 DEF CON Short Story contest.
   - You can find the story on [Apple Books](https://books.apple.com/us/book/plug-and-play/id1521590505) and on [GitHub](https://gist.github.com/504f8100bcd01bf2b998c674a390f6f0).
 
-- 📱 I published an app - [AntiSocial](https://apps.apple.com/us/app/anti-social/id1516200820) - to the App Store that allows you to block tracking from popular social networks. The app is also [open source on GitHub](https://github.com/247arjun/AntiSocialApp).
+## Things I built
+- 👨‍💻 Open-source MCP Servers for [`curl`](https://www.npmjs.com/package/@247arjun/mcp-curl), [`grep`](https://www.npmjs.com/package/@247arjun/mcp-grep) and [`jq`](https://www.npmjs.com/package/@247arjun/mcp-jq), allowing conversational invocation of these utilities.
+
+- 🔁 A SwiftUI app for macOS that is [a native macOS GUI for cURL](https://github.com/247arjun/gURL).
+
+- 📱 An app - [AntiSocial](https://apps.apple.com/us/app/anti-social/id1516200820) - to the App Store that allows you to block tracking from popular social networks. The app is also [open source on GitHub](https://github.com/247arjun/AntiSocialApp).
 
 
 <!--
