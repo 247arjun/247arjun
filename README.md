@@ -22,11 +22,11 @@ I'm a Security Engineering Manager at Microsoft, working to keep Microsoft Cloud
 ## 🧱 Things I built
 - 👨‍💻 Open-source MCP Servers for [`curl`](https://www.npmjs.com/package/@247arjun/mcp-curl), [`grep`](https://www.npmjs.com/package/@247arjun/mcp-grep) and [`jq`](https://www.npmjs.com/package/@247arjun/mcp-jq), allowing conversational invocation of these utilities.
 
-- 🔁 A SwiftUI app for macOS that is [a native macOS GUI for cURL](https://github.com/247arjun/gURL).
+- 🔁 [gURL](https://github.com/247arjun/gURL), a SwiftUI app for macOS that is a native macOS GUI for cURL.
 
-- 📚 A SwiftUI app for macOS that is a [clean, modern RSS Reader](https://github.com/247arjun/Sources).
+- 📚 [Sources](https://github.com/247arjun/Sources), a SwiftUI app for macOS that is a clean, modern RSS Reader.
 
-- 📱 An app - [AntiSocial](https://apps.apple.com/us/app/anti-social/id1516200820) - to the App Store that allows you to block tracking from popular social networks. The app is also [open source on GitHub](https://github.com/247arjun/AntiSocialApp).
+- 📱 [AntiSocial](https://apps.apple.com/us/app/anti-social/id1516200820), an iOS app that allows you to block tracking from popular social networks. The app is also [open source on GitHub](https://github.com/247arjun/AntiSocialApp).
 
 
 <!--
