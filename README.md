@@ -24,6 +24,8 @@ I'm a Security Engineering Manager at Microsoft, working to keep Microsoft Cloud
 
 - 🔁 A SwiftUI app for macOS that is [a native macOS GUI for cURL](https://github.com/247arjun/gURL).
 
+- 📚 A SwiftUI app for macOS that is a [clean, modern RSS Reader](https://github.com/247arjun/Sources).
+
 - 📱 An app - [AntiSocial](https://apps.apple.com/us/app/anti-social/id1516200820) - to the App Store that allows you to block tracking from popular social networks. The app is also [open source on GitHub](https://github.com/247arjun/AntiSocialApp).
 
 
