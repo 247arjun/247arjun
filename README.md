@@ -6,6 +6,8 @@ I'm a Security Engineering Manager at Microsoft, working to keep Microsoft Cloud
 
 ## 📰 Profile
 
+- 🛑 I led the design, development and [open-sourcing](https://github.com/microsoft/antissrf) of the `AntiSSRF` secure code libraries that help protect online services against SSRF risk.
+
 - 🎙️ I have been a guest on **Microsoft's BlueHat Podcast**, sharing [my journey from Software Engineer to Security Engineer](https://podcasts.apple.com/us/podcast/the-bluehat-podcast/id1688087915?i=1000674973320).
 
 - 👨‍🏫 I co-delivered a workshop on [SAST using Semgrep](https://defcon.org/html/defcon-32/dc-32-workshops.html#54210), at **DEF CON 32**.
