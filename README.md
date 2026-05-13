@@ -2,7 +2,7 @@
 
 I'm a Security Engineering Manager at Microsoft, working to keep Microsoft Cloud customers protected and productive. I'm deeply passionate about security, and love to learn and share things related to security.
 
-- 🌩️ I currently work in the Azure Security organization at Microsoft, leading a team of Security Engineers protecting the Microsoft Cloud.
+- 🌩️ I currently work in the Cloud Security organization at Microsoft, leading a team of Security Engineers protecting the Microsoft Cloud.
 
 ## 📰 Profile
 
