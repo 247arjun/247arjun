@@ -10,7 +10,7 @@ I'm a Security Engineering Manager at Microsoft, working to keep Microsoft Cloud
 
 - 🎙️ I have been a guest on **Microsoft's BlueHat Podcast**, sharing [my journey from Software Engineer to Security Engineer](https://podcasts.apple.com/us/podcast/the-bluehat-podcast/id1688087915?i=1000674973320).
 
-- 👨‍🏫 I co-delivered a workshop on [SAST using Semgrep](https://defcon.org/html/defcon-32/dc-32-workshops.html#54210), at **DEF CON 32**.
+- 👨‍🏫 I co-delivered a workshop on [SAST using Semgrep](https://defcon.org/html/defcon-32/dc-32-workshops.html#54210), at **DEF CON 32** and **BSides Seattle**.
 
 - 🎤 I presented multiple talks, including at **DEF CON 29** ("[AppSec 101: A Journey from Engineer to Hacker](https://youtu.be/7jiUt_TqfG4)"), at the **National Cybersecurity Alliance** [Convene in Seattle](https://staysafeonline.org/programs/events/convene-seattle-2024/) educating cybersecurity awareness professionals about AppSec, and numerous talks internal to my employer.
 
